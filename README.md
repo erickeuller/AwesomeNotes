@@ -1,0 +1,2 @@
+# AwesomeNotes
+Simple todo app
